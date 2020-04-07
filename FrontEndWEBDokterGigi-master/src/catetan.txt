@@ -1,0 +1,17 @@
+register -> di potong , data general dulu
+verifikasi email -> execute
+notifikasi -> filter notifikasi berdasarkan yang user pilih
+absensi -> peserta seminar
+
+space diatas explore -> banner iklan (promosi)
+
+di bagian regist event ada notice pada saat melakukan pembayaran (redaksi dari admin) -> terkait masalah pembatalan kegiatan acara
+
+admin ada banyak
+
+rating untuk panitia / acara
+
+craeate event notice -> jangan yang kosong / salah /terlewat karena setelah di upload tidak bisa di lakukan perubahan, kecuali event yang anda buat belum ada peserta yang daftar
+
+==============================================================
+admin - super admin
